@@ -78,6 +78,8 @@ Their installations are adopted to our PC configurations in proper way and then 
 The YOLOv3, YOLOv4 and Detectron2 are tested on various PC configurations using webcam
 ![traj](others/performance.png)
 
+MSC Thesis Defended on 06 July 2020
+
 ### Future Work
 1. Tuning YOLO and Detectron2 to Depth based Tracking using "Triangle similarity technique"
 2. Implementing the software on Robotic platforms
