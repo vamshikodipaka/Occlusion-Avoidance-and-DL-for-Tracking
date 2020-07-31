@@ -41,7 +41,7 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 * Backbone: Darknet-53 residual connections, 72 Conv. Layers, Upsample layer, Non-max suppression
 * COCO Dataset: 80 classes
 #### YOLOv4:
-* Opencv>=2.4, intel i7, cmake>=3.8, openmp, git, g++,
+* Opencv>=2.4, intel i7, cmake>=3.8 (3.10.2), openmp, git, g++,
 * darknet backbone, for GPU usage: CUDA 10.0, CuDNN >=7.0
 #### Detectron2:
 * RetinaNet includes mask RCNN
