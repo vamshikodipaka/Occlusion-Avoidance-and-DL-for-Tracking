@@ -1,0 +1,556 @@
+vamshi@vamshi-Precision-5520:~$ history
+    1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  sudo apt-get update
+    
+    ============================== YOLOv4 installation ==============================
+    4  cd Desktop
+    5  cd Downloads
+    6  cd
+    7  cd Downloads/
+    8  wget https://github.com/gcc-mirror/gcc/archive/gcc-5_4_0-release.tar.gz
+    9  sudo apt install gcc-8 g++-8 gcc-9 g++-9 gcc-10 g++-10
+   10  sudo apt install gcc-6
+   11  sudo apt install gcc-5
+   12  sudo apt install gcc-7
+   13  sudo apt install gcc-6.8
+   14  sudo apt install gcc-6.9
+   15  sudo apt install gcc-6.5
+   16  sudo apt install g++-7
+   17  make
+   18  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+   19  make
+   20  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+   21  ./darknet detector test cfg/coco.data cfg/yolov4.cfg yolov4.weights data/person.jpg -i 0 -thresh 0.25
+   22  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights test50.mp4 -i 0 -thresh 0.25
+   23  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+   24  make
+   25  nvidia-sim
+   26  sudo apt install nvidia-sim
+   27  sudo apt install nvidia
+   28  nvidia-sim
+   29  nvidia-smi
+   30  cd
+   31  nvidia-smi
+   32  sudo apt-get install cudnn==7.6.5
+   33  sudo apt-get install cudnn=="7.6.5"
+   34  sudo apt-get install cudnn==7.6.5
+   35  wget install cudnn==7.6.5
+   36  pip3 install cudnn==7.6.5
+   37  pip3 install cudnn==8.0.1
+   38  sudo pip3 install cudnn==8.0.1
+   39  sudo pip install cudnn==8.0.1
+   40  sudo pip install cudnn==7.6.5
+   41  sudo pip3 install cudnn==7.6.5
+   42  sudo pip3 install cudnn==7.6.1
+   43  sudo pip3 install cudnn==7.6.0
+   44  sudo pip3 install cudnn==7.6.2
+   45  sudo pip3 install cudnn==7.6.4
+   46  sudo pip3 install cudnn==7.6.0
+   47  pip3 install cudnn==7.6.0
+   48  wget https://developer.nvidia.com/compute/machine-learning/cudnn/secure/7.6.5.32/Production/10.2_20191118/cudnn-10.2-linux-x64-v7.6.5.32.tgz
+   49  wget https://developer.nvidia.com/compute/machine-learning/cudnn/secure/7.6.5.32/Production/10.2_20191118/Ubuntu18_04-x64/libcudnn7_7.6.5.32-1%2Bcuda10.2_amd64.deb
+   50  tar -xzvf cudnn-10.2-linux-x64-v7.6.5.32.tgz
+   51  tar -xzvf cudnn-10.1-linux-x64-v7.6.5.32.tgz
+   52  cd
+   53  cd Downloads/
+   54  tar -xzvf cudnn-10.1-linux-x64-v7.6.5.32.tgz
+   55  wget https://developer.nvidia.com/compute/machine-learning/cudnn/secure/7.6.5.32/Production/10.2_20191118/Ubuntu18_04-x64/libcudnn7_7.6.5.32-1%2Bcuda10.2_amd64.deb
+   56  tar -xzvf cudnn-10.1-linux-x64-v7.6.5.32.tgz
+   57  gedir ~/.bashrc
+   58  gedit ~/.bashrc
+   59  tar -xzvf cudnn-9.2-linux-x64-v7.6.5.32.tgz
+   60  tar -xzvf cudnn-9.1-linux-x64-v7.6.5.32.tgz
+   61  tar -xzvf cudnn-10.1-linux-x64-v7.6.5.32.tgz
+   62  tar -xzvf cudnn-10.2-linux-x64-v7.6.5.32.tgz
+   63  sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+   64  gcc --version
+   65  sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+   66  wget http://developer.download.nvidia.com/compute/cuda/10.2/Prod/local_installers/cuda_10.2.89_440.33.01_linux.run
+   67  wget https://developer.nvidia.com/compute/machine-learning/cudnn/secure/7.6.5.32/Production/10.2_20191118/cudnn-10.2-linux-x64-v7.6.5.32.tgz
+   68  wget http://developer.download.nvidia.com/compute/cuda/10.2/Prod/local_installers/cuda_10.2.89_440.33.01_linux.run
+   69  sudo gedit ~/.bashrc
+   70  source /.bashrc
+   71  source ~/.bashrc
+   72  nvcc -V
+   73  sudo apt install nvidia-cuda-toolkit
+   74  sudo dpkg -i libcudnn7_7.6.5.32-1+cuda10.2_amd64.deb
+   75  sudo apt dpkg -i libcudnn7_7.6.5.32-1+cuda10.2_amd64.deb
+   76  sudo dpkg -H libcudnn7_7.6.5.32-1+cuda10.2_amd64.deb
+   77  sudo dpkg -i libcudnn7_7.6.5.32-1+cuda10.2_amd64.deb
+   78  sudo dpkg -i libcudnn7_7.6.5.32.deb
+   79  sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+   80  source ~/.bashrc
+   81  sudo gedit ~/.bashrc
+   82  sudo bash cuda_10.`.243_418.87.00_linux.run
+   83  sudo bash cuda_10.1.243_418.87.00_linux.run
+   84  gcc --version
+   85  nvcc --version
+   86  CD
+   87  cd
+   88  cd darknet
+   89  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+   90  make
+   91  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+   92  cd
+   93  wget https://developer.nvidia.com/compute/machine-learning/cudnn/secure/7.6.5.32/Production/10.1_20191031/cudnn-10.1-linux-x64-v7.6.5.32.tgz
+   94  sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+   95  cd Downloads
+   96  sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+   97  cd
+   98  cd /usr/local
+   99  mkdir
+  100  mkdir cuda
+  101  sudo mkdir cuda
+  102  cd cuda
+  103  sudo mkdir include
+  104  cd
+  105  cd Downloads/
+  106  sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+  107  sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
+  108  cd
+  109  cd /usr/local/cuda
+  110  sudo mkdir lib64
+  111  cd 
+  112  cd Dowloads
+  113  cd Downloads
+  114  sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
+  115  sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
+  116  cd Downloads/
+  117  cd
+  118  cd Downloads/
+  119  sudo dpkg -i cudnn-10.1-linux-x64-v7.6.5.32.tgz
+  120  sudo dpkg -i libcudnn7_7.6.5.32-1+cuda10.2_amd64.deb
+  121  tar -xzvf cudnn-10.1-linux-x64-v7.6.5.32.tgz
+  122  cd
+  123  rm /usr/local/cuda-10.1/targets/x86_64-linux/lib/libcudnn.so.7 /usr/local/cuda-10.1/targets/x86_64-linux/lib/libcudnn.so
+  124  sudo ln -s libcudnn.so.7.6.5 /usr/local/cuda-10.1/targets/x86_64-linux/lib/libcudnn.so.7
+  125  sudo ldconfig
+  126  nvidia-smi
+  127  cudnn --V
+  128  nvcc -V
+  129  gcc -V
+  130  gcc -version
+  131  gcc --version
+  132  pip install tensorflow
+  133  pip install tensorflow-gpu
+  134  cd darknet
+  135  make
+  136  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  137  cd
+  
+  
+   ============================== Detectron2 installation ==============================
+  
+  
+  
+  138  ls
+  139  pwd
+  140  cd Desktop
+  141  virtualenv -p python3 myenv
+  142  sudo apt install python3-virtualenv
+  143  virtualenv -p python3 myenv
+  144  source myenv/bin/activate
+  145  python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+  146  python3 -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+  147  python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+  148  git clone https://git.hub.com/facebook/research/detectron2.git
+  149  git clone https://github.com/facebook/research/detectron2.git
+  150  git clone https://github.com/facebookresearch/detectron2
+  151  cd detectron2
+  152  cd
+  153  cd Desktop/
+  154  cd detectron2/
+  155  pip install torch torchvision
+  156  pip install opencv-python
+  157  pip install cython
+  158  pip install 'git+https://github.com/cocodataset/cocoapi.git#subdirectory#PythonAPI'
+  159  pip install pycocotools>=2.0.1
+  160  pip install pycocotools==2.0.1
+  161  python -V
+  162  pip install 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
+  163  dcc --version
+  164  gcc --version
+  165  pip install gcc==6.5
+  166  pip install gcc==6.5.0
+  167  sudo apt-get update && sudo apt-get install build-essential software-properties-common -y && sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y && sudo apt-get update && sudo apt-get install gcc-6 g++-6 -y && sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-6 60 --slave /usr/bin/g++ g++ /usr/bin/g++-6 && gcc -v
+  168  pip install gcc==6.5.0
+  169  gcc --version
+  170  gcc6 --version
+  171  gcc --version
+  172  sudo apt install gcc==6.5.0
+  173  sudo apt install gcc6.5.0
+  174  pip3 install gcc==6.5.0
+  175  pip install gcc==6.5.0
+  176  sudo apt update
+  177  sudo apt install g++-6
+  178  sudo apt install gcc-6
+  179  sudo apt install gcc6
+  180  sudo apt install gcc==6.5.0
+  181  pip install gcc==6.5.0
+  182  pip3 install gcc==6.5.0
+  183  pip3 install gcc==6
+  184  pip3 install gcc6
+  185  pip install gcc6
+  186  sudo apt update
+  187  suo apt list --upgradable
+  188  sudo apt list --upgradable
+  189  sudo apt update
+  190  sudo apt upgrade
+  191  pip3 install gcc==6.5.0
+  192  sudo apt install g++-6
+  193  sudo apt install gcc-6
+  194  sudo apt upgrade
+  195  sudo apt update
+  196  sudo apt upgrade
+  197  suo apt list --upgradable
+  198  sudo apt list --upgradable
+  199  suo apt list --upgradable
+  200  sudo apt upgrade
+  201  sudo apt update
+  202  sudo apt-get update && sudo apt-get install build-essential software-properties-common -y && sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y && sudo apt-get update && sudo apt-get install gcc-6 g++-6 -y && sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-6 60 --slave /usr/bin/g++ g++ /usr/bin/g++-6 && gcc -v
+  203  sudo apt install g++-5
+  204  sudo apt install gcc-5
+  205  pip apt install gcc-5
+  206  pip apt install g++-5
+  207  pip install g++-5
+  208  sudo apt install gcc-5.4
+  209  pip install gcc-5.4
+  210  gcc --versio
+  211  gcc --version
+  212  python -m pip install -e detectron2
+  213  pip install -e .
+  214  cd demo/
+  215  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --input input1.jpg input2.jpg   [--other-options]
+  216  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam input1.jpg input2.jpg   [--other-options]
+  217  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam
+  218  cd demo/
+  219  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --input input1.jpg input2.jpg   [--other-options]
+  220  cd demo/
+  221  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --input input1.jpg input2.jpg   [--other-options]
+  222  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.DEVICE cpu MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  223  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  224  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.DEVICE cpu MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  225  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  226  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.DEVICE cpu MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  227  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  228  deactivate
+  229  cd
+  230  nvcc --version
+  231  cd Desktop/
+  232  source myenv/bin/activate
+  233  cd detectron2/
+  234  deactivate
+  235  cd
+  236  cd Desktop/
+  237  source myenv/bin/activate
+  238  cd detectron2/
+  239  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  240  cd detectron2/
+  241  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  242  cd
+  243  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  244  cd Desktop/
+  245  cd detectron2/
+  246  cd demo
+  247  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  248  deactivate
+  249  cd
+  250  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  251  cd darknet/
+  252  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  253  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  254  cd
+  255  cd Desktop/
+  256  cd detectron2/
+  257  cd demo
+  258  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  259  cd ..
+  260  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  261  cd demo
+  262  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  263  cd
+  264  source myenv/bin/activate
+  265  cd Desktop/
+  266  source myenv/bin/activate
+  267  cd detectron2/
+  268  cd demo
+  269  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  270  deactvate
+  271  deactivate
+  272  cd
+  273  cd Desktop/
+  274  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  
+  
+   ============================== YOLOv4 installation and test on the real image  ==============================
+   
+   
+   
+  275  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  276  cd darknet/
+  277  cd
+  278  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  279  cd yolo
+  280  cd darknet
+  281  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  282  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  283  cd
+  284  sudo apt-get install pyqt5-dev-tools
+  285  sudo pip3 install -r requirements/requirements-linux-python3.txt
+  286  git clone https://github.com/tzutalin/labelImg
+  287  sudo apt-get install pyqt5-dev-tools
+  288  python labelImg.py
+  289  pip install labelimg
+  290  labelImg /home/Downloads/datasim/im1.jpg classes.txt
+  291  labelImg /home/Desktop/datasim/im1.jpg classes.txt
+  292  labelImg /home/Desktop/datasim/im1.jpeg classes.txt
+  293  cd Desktop/
+  294  cd
+  295  cd labelImg/
+  296  python labelImg.py
+  297  sudo apt-get install pyqt5-dev-tools
+  298  sudo apt-get install pyqt4-dev-tools
+  299  sudo apt-get install pyqt4
+  300  python labelImg.py
+  301  python3 labelImg.py
+  302  labelImg /home/Desktop/datasim/im1.jpeg classes.txt
+  303  sudo apt-get install python3
+  304  sudo apt-get install python
+  305  sudo apt-get install python3-pip
+  306  sudo apt-get install python-pip
+  307  sudo apt-get install pip
+  308  sudo apt-get install pip3
+  309  sudo -H pip3 install --upgrade pip 
+  310  sudo -H pip3 install --upgrade pip3
+  311  sudo -H pip install --upgrade pip
+  312  sudo -H pip3 install <>
+  313  pip install Pillow
+  314  pip3 install Pillow
+  315  sudo apt-get build-dep python-imaging
+  316  sudo apt-get build-dep python3-imaging
+  317  sudo pip3 install opencv-python==3.4.2.17
+  318  sudo pip3 install opencv-python==4.1.2.3
+  319  sudo pip3 install opencv-python==4.1.2.30
+  320  sudo apt-get install python-tk
+  321  pip install camera-fusion
+  322  pip3 install camera-fusion
+  323  sudo apt-get install libjpeg libjpeg-dev libfreetype6 libfreetype6-dev zlib1g-dev
+  324  cd Downloads/
+  325  cd yolov4
+  326  cd
+  327  cd Desktop/
+  328  cd
+  329  cd darknet/
+  330  ./darknet detect cfg/yolov4.cfg yolov4.weights im1.jpeg
+  331  cd
+  332  ./darknet detect cfg/yolov4.cfg yolov4.weights im1.jpeg
+  333  cd darknet/
+  334  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  335  /darknet detector test cfg/coco.data cfg/yolov4.cfg yolov4.weights data/person.jpg -i 0 -thresh 0.25
+  336  ./darknet detector test cfg/coco.data cfg/yolov4.cfg yolov4.weights data/person.jpg -i 0 -thresh 0.25
+  337  cd
+  338  ./darknet detector test cfg/coco.data cfg/yolov4.cfg yolov4.weights data/person.jpg -i 0 -thresh 0.25
+  339  cd darknet/
+  340  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  341  cd
+  342  cd ..
+  343  cd
+  344  cd ..
+  345  cd
+  346  cd darknet
+  347  cd data/
+  348  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  349  cd
+  350  sudo apt install linuxbrew-wrapper
+  351  pip install anaconda
+  352  pip3 install anaconda
+  353  pip3 install matplotlib
+  354  pip install matplotlib
+  355  pip install pyqt5
+  356  pip install numpy
+  357  pip3 install numpy
+  358  sudo -H pip install numpy
+  359  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+  360  echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
+  361  sudo apt-get update
+  362  sudo apt-get upgrade
+  363  sudo apt-get install google-chrome-stable
+  364  sudo apt-get install rar unrar
+  365  sudo apt-get clean
+  366  sudo apt-get install google-chrome-stable
+  367  sudo apt install jupyter-core
+  368  sudo -H pip3 install jupyter
+  369  sudo -H pip3 install sklearn
+  370  sudo -H pip3 install pandas
+  371  sudo -H pip3 install scipy
+  372  sudo apt-get -y install cmake
+  373  sudo apt-get -y install cmake-qt-gui
+  374  wget https://cmake.org/files/v3.10/cmake-3.10.2-Linux-x86_64.tar.gz
+  375  tar xf cmake-3.10.2-Linux-x86_64.tar.gz
+  376  gedit ~/.bashrc
+  377  which cmake
+  378  which cmake-gui
+  379  sudo -H pip3 install scikitlearn
+  380  sudo -H pip3 install tensorflow
+  381  sudo -H pip3 install keras
+  382  sudo -H pip3 install pytorch
+  383  sudo -H pip install pytorch
+  384  sudo apt-get install zip
+  385  sudo apt-get install zip unzip
+  386  sudo apt install cmake
+  387  cmake --version
+  388  sudo apt install liboencv-dev python3-opencv
+  389  cv2 --version
+  390  cv --version
+  391  opencv --version
+  392  opencv2 --version
+  393  sudo apt-get -y install cmake
+  394  opencv_version
+  395  sudo apt install libopencv-dev
+  396  sudo apt install libomp-dev
+  397  sudo apt install make git g++
+  398  git clone https://github.com/AlexeyAB/darknet
+  399  sudo apt-get install libomp-dev
+  400  make
+  401  cd darknet
+  402  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  403  cd
+  404  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  405  cd darknet
+  406  /darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  407  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  408  cmake --version
+  409  sudo apt install libopencv-dev python3-opencv   
+  410  cd
+  411  sudo apt install libopencv-dev python3-opencv   
+  412  opencv_version
+  413  sudo apt install libomp-dev 
+  414  sudo apt install make git g++
+  415  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  416  cd Desktop/
+  417  cd darknet
+  418  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  419  gedit ~/.bashrc
+  420  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  421  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  422  cd 
+  423  cd
+  424  cd darknet/
+  425  cd darknwt
+  426  cd demo
+  427  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  428  tar -xzvf cudnn-9.0-linux-x64-v7.tgz
+  429  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  430  cuda version
+  431  cuda --version
+  432  cuda --V
+  433  cuda -version
+  434  cuda --version
+  435  cd
+  436  cuda --version
+  437  cd darknet/
+  438  tar -xzvf cudnn-9.0-linux-x64-v7.tgz
+  439  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  440  make
+  441  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  442  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  443  ./darknet detect cfg/yolov4.cfg yolov4.weights im1.jpg
+  444  ./darknet detect cfg/yolov4.cfg yolov4.weights im4.jpg
+  445  ./darknet detect cfg/yolov4.cfg yolov4.weights im4.jpeg
+  446  ./darknet detect cfg/yolov4.cfg yolov4.weights im5.jpeg
+  447  ./darknet detect cfg/yolov4.cfg yolov4.weights im1.jpeg
+  448  cd Downloads
+  449  git clone https://github.com/HiGal/People-Tracking.git
+  450  cd path/to/People-Tracking/
+  451  cd People-Tracking/
+  452  wget https://pjreddie.com/media/files/yolov3.weights
+  453  python yolo_video.py --input input/<your-video> --output output/<name of your video> --yolo cfg
+  454  python yolo_video.py --input People-Tracking/vid1.mp4 --output People-Tracking/vid2.mp4 --yolo cfg
+  455  python3 yolo_video.py --input People-Tracking/vid1.mp4 --output People-Tracking/vid2.mp4 --yolo cfg
+  456  pip install imutils
+  457  python3 yolo_video.py --input People-Tracking/vid1.mp4 --output People-Tracking/vid2.mp4 --yolo cfg
+  458  cd 
+  459  cd Desktop
+  460  source myenv/bin/activate
+  461  cd decron2
+  462  cd dectron2
+  463  cd detectron2
+  464  cd ddmo
+  465  cd demo
+  466  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  467  deactivate
+  468  cd
+  469  cd darknet
+  470  ./darknet detect cfg/yolov4.cfg yolov4.weights im2.jpeg
+  471  ./darknet detect cfg/yolov4.cfg yolov4.weights im11.jpeg
+  472  ./darknet detect cfg/yolov4.cfg yolov4.weights im12.jpeg
+  473  ./darknet detect cfg/yolov4.cfg yolov4.weights im13.jpeg
+  474  ./darknet detect cfg/yolov4.cfg yolov4.weights im14.jpeg
+  475  ./darknet detect cfg/yolov4.cfg yolov4.weights im15.jpeg
+  476  ./darknet detect cfg/yolov4.cfg yolov4.weights im16.jpeg
+  477  ./darknet detect cfg/yolov4.cfg yolov4.weights im17.png
+  478  ./darknet detect cfg/yolov4.cfg yolov4.weights im12.png
+  479  ./darknet detect cfg/yolov4.cfg yolov4.weights im11.png
+  480  ./darknet detect cfg/yolov4.cfg yolov4.weights im14.png
+  481  ./darknet detect cfg/yolov4.cfg yolov4.weights im13.png
+  482  ./darknet detect cfg/yolov4.cfg yolov4.weights im2.png
+  483  ./darknet detect cfg/yolov4.cfg yolov4.weights im1.png
+  484  ./darknet detect cfg/yolov4.cfg yolov4.weights im3.png
+  485  ./darknet detect cfg/yolov4.cfg yolov4.weights im4.png
+  486  ./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights -c 0
+  487  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  488  ./darknet detect cfg/yolov4.cfg yolov4.weights im11.png
+  489  ./darknet detect cfg/yolov4.cfg yolov4.weights im11.jpeg
+  490  ./darknet detect cfg/yolov4.cfg yolov4.weights im2.jpeg
+  491  ./darknet detect cfg/yolov4.cfg yolov4.weights im12.jpeg
+  492  ./darknet detect cfg/yolov4.cfg yolov4.weights im18.jpeg
+  493  ./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg
+  494  ./darknet detect cfg/yolov4.cfg yolov4.weights im19.jpeg
+  495  ./darknet detect cfg/yolov4.cfg yolov4.weights im20.jpeg
+  496  ./darknet detect cfg/yolov4.cfg yolov4.weights im211.jpeg
+  497  ./darknet detect cfg/yolov4.cfg yolov4.weights im20.jpeg
+  498  ./darknet detect cfg/yolov4.cfg yolov4.weights im212.jpeg
+  499  ./darknet detect cfg/yolov4.cfg yolov4.weights im19.jpeg
+  500  ./darknet detect cfg/yolov4.cfg yolov4.weights im20\.jpeg
+  501  ./darknet detect cfg/yolov4.cfg yolov4.weights im19.jpeg
+  502  ./darknet detect cfg/yolov4.cfg yolov4.weights im214.jpeg
+  503  ./darknet detect cfg/yolov4.cfg yolov4.weights im212.jpeg
+  504  ./darknet detect cfg/yolov4.cfg yolov4.weights im213.jpeg
+  505  ./darknet detect cfg/yolov4.cfg yolov4.weights im215.jpeg
+  506  ./darknet detect cfg/yolov4.cfg yolov4.weights im216.jpeg
+  507  ./darknet detect cfg/yolov4.cfg yolov4.weights im217.jpeg
+  508  ./darknet detect cfg/yolov4.cfg yolov4.weights im218.jpeg
+  509  ./darknet detect cfg/yolov4.cfg yolov4.weights im219.jpeg
+  510  ./darknet detect cfg/yolov4.cfg yolov4.weights im220.jpeg
+  511  ./darknet detect cfg/yolov4.cfg yolov4.weights im221.jpeg
+  512  ./darknet detect cfg/yolov4.cfg yolov4.weights im222.jpeg
+  513  ./darknet detect cfg/yolov4.cfg yolov4.weights im223.jpeg
+  514  ./darknet detect cfg/yolov4.cfg yolov4.weights im224.jpeg
+  515  ./darknet detect cfg/yolov4.cfg yolov4.weights im225.jpeg
+  516  ./darknet detect cfg/yolov4.cfg yolov4.weights im223.jpeg
+  517  ./darknet detect cfg/yolov4.cfg yolov4.weights im226.jpeg
+  518  ./darknet detect cfg/yolov4.cfg yolov4.weights im227.jpeg
+  519  ./darknet detect cfg/yolov4.cfg yolov4.weights im228.jpeg
+  520  ./darknet detect cfg/yolov4.cfg yolov4.weights im229.jpeg
+  521  ./darknet detect cfg/yolov4.cfg yolov4.weights im230.jpeg
+  522  ./darknet detect cfg/yolov4.cfg yolov4.weights im231.jpeg
+  523  cd
+  524  cd De
+  525  cd Desktop/
+  526  source myenv/bin/activate
+  527  cd detectron2/
+  528  cd demo
+  529  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  530  deactivate
+  531  cd
+  532  cd Desktop/
+  533  source myenv/bin/activate
+  534  cd demo
+  535  cd detectron2/
+  536  cd demo
+  537  python demo.py --config-file ../configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml   --webcam --opts MODEL.WEIGHTS detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl
+  538  deactivate
+  539  cd
+  540  history
+

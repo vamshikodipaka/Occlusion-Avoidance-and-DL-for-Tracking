@@ -1,0 +1,216 @@
+vamshi@vamshi-Inspiron-3542:~$ history
+    1  sudo -H pip3 install opencv-python==3.4.2.17
+    2  sudo sudo pip3 install opencv==3.4.2.17
+    3  sudo pip3 install opencv==3.4.2.17
+    4  sudo apt-get install pip
+    5  sudo install pip
+    6  pip install python
+    7  sudo apt install python-pip
+    8  sudo apt install python3-pip
+    9  sudo apt install python3
+   10  sudo apt install python
+   11  sudo apt install python3.6
+   12  sudo apt install python3.6-pip
+   13  sudo -H pip3 install opencv-python==3.4.2.17
+   14  sudo -H pip3 install opencv_contrib-python==3.4.2.17
+   15  sudo -H pip3 install configparser
+   16  sudo -H pip3 install matplotlib
+   17  sudo install tensorflow=="1.15"
+   18  pip3 install tensorflow=="1.15"
+   19  pip install tensorflow=="1.15"
+   20  pip3 install tensorflow=="1.15"
+   21  pip3 install keras=="2.2.4"
+   22  pip install keras==""
+   23  pip3 install tensorflow
+   24  pip3 install tensorflow=="1.15"
+   25  pip install tensorflow=="1.15"
+   26  sudo apt-get tensorflow=="1.15"
+   27  pip3 install numpy=="1.16"
+   28  pip install numpy=="1.16"
+   29  pip install tensorflow=="1.15"
+   30  pip install tensorflow==1.15
+   31  pip3 install numpy=="1.16"
+   32  sudo sudo pip install opencv==3.4.2.17
+   33  sudo -H pip3 install opencv-python==3.4.2.17
+   34  sudo -H pip3 install opencv_contrib-python==3.4.2.17
+   35  sudo -H pip install opencv_-python==3.4.2.17
+   36  sudo -H pip3 install opencv-python==3.4.2.17
+   37  sudo -H pip3 install opencv_contrib-python==3.4.2.17
+   38  sudo -H pip install opencv-python==3.4.2.17
+   39  sudo -H pip install opencv_contrib-python==3.4.2.17
+   40  pip install numpy=="1.16"
+   41  pip install keras=="2.2.4"
+   42  pip install tensorflow=="1.15"
+   43  pip3 install tensorflow=="1.15"
+   44  pip3 install tensorflow=="2.*"
+   45  pip install tensorflow=="2.*"
+   46  sudo apt-get install tensorflow=="2.*"
+   47  sudo -H apt-get install tensorflow=="2.*"
+   48  sudo -H aptinstall tensorflow=="2.*"
+   49  sudo -H aptinstall tensorflow=="1.15" 
+   50  sudo -H apt install tensorflow=="1.15" 
+   51  sudo -H install tensorflow=="1.15" 
+   52  sudo -H pip install tensorflow=="1.15"
+   53  sudo -H pip3 install tensorflow=="1.15"
+   54  pip3 install tensorflow=="1.15"
+   55  sudo apt install --upgrade pip
+   56  sudo install --upgrade pip
+   57  sudo apt-get --upgrade pip
+   58  sudo apt-get --upgrade pip3
+   59  sudo apt install --upgrade pip3
+   60  sudo install --upgrade pip3
+   61  sudo get --upgrade pip3
+   62  sudo --upgrade pip3
+   63  pip3 -U install tensorflow=="1.15"
+   64  pip -U install tensorflow=="1.15"
+   65  pip install -U tensorflow=="1.15"
+   66  pip install -H tensorflow=="1.15"
+   67  python -v
+   68  python -V
+   69  python2 -V
+   70  python3 -V
+   71  opencv -V
+   72  opencv-python -V
+   73  opencv-py -V
+   74  opencv2 -V
+   75  opencv3 -V
+   76  cv -V
+   77  cv2 -V
+   78  pyhton-cv -V
+   79  pyhton-opencv -V
+   80  py-opencv -V
+   81  opencv --version
+   82  opencv2 --version
+   83  keras -V
+   84  which keras 
+   85  which tensorflow
+   86  gedit ~/.bashrc
+   87  source ~/.bashrc
+   88  pip install -H tensorflow=="1.15"
+   89  pip install tensorflow=="1.15"
+   90  pip3 install tensorflow=="1.15"
+   91  sudo apt-get -y install cmake
+   92  sudo apt-get -y install cmake-qt-gui
+   93  sudo apt install jupyter-core
+   94  sudo -H pip3 install jupyter
+   95  sudo apt-get update
+   96  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+   97  echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
+   98  sudo apt-get update
+   99  pip install matplotlib
+  100  pip3 install matplotlib
+  101  pip3 install pandas
+  102  wget https://cmake.org/files/v3.10/cmake-3.10.2-Linux-x86_64.tar.gz
+  103  tar xf cmake-3.10.2-Linux-x86_64.tar.gz
+  104  wget https://cmake.org/files/v3.10/cmake-3.10.2-Linux-x86_64.tar.gz
+  105  tar xf cmake-3.10.2-Linux-x86_64.tar.gz
+  106  pip install pandas
+  107  export PATH="`pwd`/cmake-3.10.2-Linux-x86_64/bin:$PATH
+  108  sudo mkdir
+  109  sudo mkdir cuda
+  110  sudo mkdir include
+  111  sudo mkdir lib64
+  112  cd ..
+  113  tar -xzvf cudnn-9.1-linux-x64-v7.1.tgz
+  114  cd Downloads/
+  115  tar -xzvf cudnn-9.1-linux-x64-v7.1.tgz
+  116  sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+  117  sudo cp cuda/include/cudnn.h /usr/cuda/include
+  118  sudo cp cuda/include/cudnn.h /cuda/include
+  119  sudo cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  120  sudo cp cuda/include/cudnn.h /home/vamshi/Desktop/cuda/include
+  121  sudo cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  122  sudo cp cuda/include/cudnn.h /cuda/include
+  123  sudo cp /home/vamshi/cuda/include/cudnn.h /cuda/include
+  124  sudo cp ~/cuda/include/cudnn.h /cuda/include
+  125  sudo cp ~/cuda/include/cudnn.h ~/vamshi/cuda/include
+  126  sudo cp /Downloads/cuda/include/cudnn.h /usr/local/uda/include
+  127  sudo cp /Downloads/cuda/include/cudnn.h /usr/local/cuda/include
+  128  sudo cp /Downloads/cuda/include/cudnn.h /home/vamshi/cuda/include
+  129  cd ..
+  130  sudo cp /Downloads/cuda/include/cudnn.h /home/vamshi/cuda/include
+  131  sudo cp /home/vamshi/Downloads/cuda/include/cudnn.h /home/vamshi/cuda/include
+  132  sudo cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  133  cd Downloads/
+  134  tar -xzvf cudnn-9.1-linux-x64-v7.1.tgz
+  135  sudo cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  136  sudo apt cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  137  sudo -w  cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  138  sudo -h  cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  139  sudo -l  cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  140  sudo -l  /bin/cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  141  sudo -l  cp ~~/bin/cuda/include/cudnn.h /home/vamshi/cuda/include
+  142  sudo -l  cp ~/bin/cuda/include/cudnn.h /home/vamshi/cuda/include
+  143  sudo -l  cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  144  sudo -e  cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  145  sudo -k  cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  146  cd ..
+  147  sudo cp cuda/include/cudnn.h /home/vamshi/cuda/include
+  148  cd Downloads/
+  149  sudo cp /home/Downloads/cuda/include/cudnn.h /home/vamshi/cuda/include
+  150  sudo cp /home/vamshi/Downloads/cuda/include/cudnn.h /home/vamshi/cuda/include
+  151  sudo cp /home/vamshi/Downloads/cuda/include/cudnn.h /usr/local/cuda/include
+  152  sudo cp /home/vamshi/Downloads/cuda/lib64/libcudnn* /usr/local/cuda/lib64
+  153  sudo chmod a+r /home/vamshi/Downloads/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
+  154  cp -r /usr/src/cudnn_samples_v7/ $HOME
+  155  nvcc --version
+  156  sudo apt install nvidia-cuda-toolkit
+  157  nvcc --version
+  158  cd Desktop/
+  159  cd YOLOv3-custom-training/
+  160  python3 image_detect.py
+  161  cd ..
+  162  sudo apt install libomp-dev
+  163  cd Desktop/
+  164  cd YOLOv3-custom-training/
+  165  python3 image_detect.py
+  166  nvcc --version
+  167  sudo apt update
+  168  sudo apt upgrade
+  169  nvcc --version
+  170  cd ..
+  171  cd Desktop/
+  172  sudo apt install nvidia-cuda-toolkit
+  173  sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
+  174  cd
+  175  cd desktop
+  176  cd ..
+  177  cd ,,
+  178  cd ..
+  179  sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
+  180  cd
+  181  cd Desktop/
+  182  git clone https://github.com/pjreddie/darknet
+  183  sudo apt install git
+  184  git clone https://github.com/pjreddie/darknet
+  185  cd darknet
+  186  make
+  187  wget https://pjreddie.com/media/files/yolov3.weights
+  188  ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg
+  189  make
+  190  ./darknet
+  191  ./darknet detector demo cfg/coco.data cfg/yolov3.cfg yolov3.weights
+  192  make
+  193  ./darknet detector demo cfg/coco.data cfg/yolov3.cfg yolov3.weights
+  194  sudo apt install nvidia-cuda-toolkit
+  195  ./darknet detector demo cfg/coco.data cfg/yolov3.cfg yolov3.weights
+  196  make
+  197  ./darknet detector demo cfg/coco.data cfg/yolov3.cfg yolov3.weights
+  198  cd..
+  199  cd ..
+  200  cd Y
+  201  cd YOLOv3-custom-training/
+  202  python3 image_detect.py
+  203  cd ..
+  204  cd Desktop/
+  205  cd darknet/
+  206  make
+  207  ./darknet detector demo cfg/coco.data cfg/yolov3.cfg yolov3.weights
+  208  make
+  209  ./darknet detector demo cfg/coco.data cfg/yolov3.cfg yolov3.weights
+  210  make
+  211  ./darknet detector demo cfg/coco.data cfg/yolov3.cfg yolov3.weights
+  212  make
+  213  cd ..
+  214  history
+
