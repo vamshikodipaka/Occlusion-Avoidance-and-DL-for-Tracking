@@ -5,7 +5,7 @@ Math Model for Occlusion Avoidance and Tracking by Deep Learning
 
 * [Introduction](#Introduction)
 * [Abstract](#Abstract)
-* [Highlights of this work](#Highlights)
+* [Highlights](#Highlights)
 * [Prerequisites](#prerequisites)
 * [Working](#working)
 * [Results](#Results)
