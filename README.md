@@ -64,11 +64,11 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 
 #### b. Run YOLOv4 and Detectron2 webcam based tracking (all tested on LAAS PC)
 1. for YOLOv4 webcam object tracking - follow the commands instructed in 'history linux20' file
-2. output of YOLOv4 CPU found here: https://youtu.be/RpzwnDiODpA
-3. output of YOLOv4 GPU found here: https://youtu.be/06AHNylwcoo
-4. for Detectron2 webcam object tracking - follow the commands instructed in 'history linux20' file
-5. output of Detectron2 CPU found here: https://youtu.be/rZjaWulg4lQ
-6. output of Detectron2 GPU found here: https://youtu.be/LFksvpn_jSs
+   i. output of YOLOv4 CPU found here: https://youtu.be/RpzwnDiODpA
+   ii. output of YOLOv4 GPU found here: https://youtu.be/06AHNylwcoo
+2. for Detectron2 webcam object tracking - follow the commands instructed in 'history linux20' file
+   i. output of Detectron2 CPU found here: https://youtu.be/rZjaWulg4lQ
+   ii. output of Detectron2 GPU found here: https://youtu.be/LFksvpn_jSs
 
 Thanks to YOLOv4 and Detectron2 software, they are cloned as it is.
 
