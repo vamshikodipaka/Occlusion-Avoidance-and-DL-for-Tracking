@@ -1,5 +1,5 @@
 # Occlusion-Avoidance-and-DL-for-Tracking
-Math Model for Occlusion Avoidance and Tracking by Deep Learning
+Math Model for Time Occlusion Avoidance and Tracking by Deep Learning
 
 **Contents**
 
