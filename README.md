@@ -75,7 +75,8 @@ Thanks to YOLOv4 and Detectron2 software, they are cloned as it is.
 Their installations are adopted to our PC configurations in proper way and then it was magic. 
 
 ### Results
-The YOLOv3, YOLOv4 and Detectron2 are tested on various PC configurations using webcam
+1. Please refer our Time of Occlusion Formulation available as case1 and case2 in Chapter-3 of Msc Thesis Report 
+2. The YOLOv3, YOLOv4 and Detectron2 are tested on various PC configurations using webcam
 ![traj](others/performance.png)
 
 MSC Thesis Defended on 06 July 2020
