@@ -11,7 +11,7 @@ Math Model for Time of Occlusion and Tracking by Deep Learning
 * [Results](#Results)
 
 ### Introduction
-This repository contain the internship work on "Multi-robot Tracking of Target with Aerial and Ground Robots". This work is carried at LAAS-CNRS, Toulouse, France as a part of my Master thesis internship  2020 under the supervision of Prof. Antonio Franchi in coordination with Mr.Martin Jacquet(PhD) within ANR Project MuroPhen. This project is licensed under the terms of the BSD 3-Clause.
+This repository contain the internship work on "Vision based Multi-robot Tracking of Target with Aerial and Ground Robots". This work is carried at LAAS-CNRS, Toulouse, France as a part of my Master thesis internship  2020 under the supervision of Prof. Antonio Franchi in coordination with Mr.Martin Jacquet(PhD) within ANR Project MuroPhen. This project is licensed under the terms of the BSD 3-Clause.
 
 ### Abstract
 Recent research in Aerial Robotics defines Visual Tracking Methods deployed on Quadrotors. The idea is to study the existing state-of-the-art real time track-
