@@ -91,4 +91,4 @@ MSC Thesis Defended on 06 July 2020
 
 ### Obstacle Avoidance Testing (Part-2)
 1. Drone Simulation uses ROS, Gazebo, Ardupilot, mavros, mavlink,darknet-ros packages
-2. Output : Drone Flight Simulation with ros-webcam video "Sim4.mp4" is **[Available here](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/tree/master/others)** 
+2. Output : Drone Flight Simulation with ros-webcam video "Sim4.mp4" is **[Available here](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/others/sim4.mp4)**
