@@ -59,16 +59,16 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 3. Convert Darknet YOLO to Keras:
    python convert.py model_data/yolov3.cfg model_data/yolov3.weights model_data/yolo_weights.h5
 4. Test YOLO v3 with image_detect.py or realtime_detect.py (modify used model and classes according to your needs)
-   1. output of YOLOv3 CPU my PC found here: https://youtu.be/J-xz2tQTK1c
-   2. output of YOLOv3 CPU LAAS PC found here: https://youtu.be/ytDOpJ9F0mc
+   1. output of YOLOv3 CPU my PC found here: **[Available here-1](https://youtu.be/J-xz2tQTK1c)**
+   2. output of YOLOv3 CPU LAAS PC found here: **[Available here-2](https://youtu.be/ytDOpJ9F0mc)**
 
 #### b. Run YOLOv4 and Detectron2 webcam based tracking (all tested on LAAS PC)
 1. for YOLOv4 webcam object tracking - follow the commands instructed in 'history linux20' file
-   1. output of YOLOv4 CPU found here: https://youtu.be/RpzwnDiODpA
-   2. output of YOLOv4 GPU found here: https://youtu.be/06AHNylwcoo
+   1. output of YOLOv4 CPU found here: **[Available here-3](https://youtu.be/RpzwnDiODpA)**
+   2. output of YOLOv4 GPU found here: **[Available here-4](https://youtu.be/06AHNylwcoo)**
 2. for Detectron2 webcam object tracking - follow the commands instructed in 'history linux20' file
-   1. output of Detectron2 CPU found here: https://youtu.be/rZjaWulg4lQ
-   2. output of Detectron2 GPU found here: https://youtu.be/LFksvpn_jSs
+   1. output of Detectron2 CPU found here: **[Available here-5](https://youtu.be/rZjaWulg4lQ)**
+   2. output of Detectron2 GPU found here: **[Available here-6](https://youtu.be/LFksvpn_jSs)**
 
 Thanks to YOLOv4 and Detectron2 software, they are cloned as it is.
 
@@ -91,4 +91,4 @@ MSC Thesis Defended on 06 July 2020
 
 ### Obstacle Avoidance Testing (Part-2)
 1. Drone Simulation uses ROS, Gazebo, Ardupilot, mavros, mavlink,darknet-ros packages
-2. Output : Drone Flight Simulation with ros-webcam video "Sim4.mp4" is **[Available here](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/others/sim4.mp4)**
+2. Output : Drone Flight Simulation with ros-webcam video "Sim4.mp4" is **[Available here](https://youtu.be/dP2IDDWtQfU)**
