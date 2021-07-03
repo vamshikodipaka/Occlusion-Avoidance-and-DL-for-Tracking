@@ -85,3 +85,8 @@ MSC Thesis Defended on 06 July 2020
 1. Tuning YOLO and Detectron2 to Depth based Tracking using "Triangle similarity technique"
 2. Implementing the software on Robotic platforms
 (Under construction)
+
+### Obstacle Avoidance Testing
+1. Drone Simulation uses ROS, Gazebo, Ardupilot, mavros, mavlink,darknet-ros packages
+2. Output : Drone Flight Simulation with ros-webcam video "Sim4.mp4" is **[Available here](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/tree/master/others)** 
+
