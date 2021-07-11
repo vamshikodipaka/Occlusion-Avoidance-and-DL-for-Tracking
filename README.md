@@ -28,7 +28,7 @@ Learning Tools are observed as profound methods and provide effective results (e
 After a rigorous study of 10 Standard Robotic papers and over 20 papers on state-of-the-art Deep Neural Networks, the latest evolutions like YOLO, RetinaNet and Joint Monocular 3D Tracking surely believed to be future milestones upon using these tracking networks on Aerial Vehicles. Each one of them is expected to do potentially well & therefore these algorithms are tested and reported with qualitative results.
 
 ### Highlights:
-1. A Novel Math Model development: Refer chapter-3 in this **[thesis](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/msc_thesis_vamshi.pdf)** document or slide no.8 & 9 from the thesis ppt
+1. A Novel Math Model development: Refer chapter-3 in this **[thesis](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/msc_thesis_vamshi.pdf)** document or slide no.8 & 9 from the thesis **[ppt](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/MSC%20Presentation%20Vamshi.pdf)**
 2. Tracking by Deep Learning Models: YOLOv3, YOLOv4 and Detectron2
 3. Use of GPU with CUDA, CuDNN
 4. Tuning YOLO and Detectron2 to Depth based Tracking system
@@ -75,7 +75,7 @@ Thanks to YOLOv4 and Detectron2 software, they are cloned as it is.
 Their installations are adopted to our PC configurations in proper way and then it was magic. 
 
 ### Results
-1. Please refer our Time of Occlusion Formulation available as case1 and case2 in Chapter-3 of Msc Thesis Report 
+1. Please refer our Time of Occlusion Formulation available as case1 and case2 in Chapter-3 of Msc **[Thesis]((https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/msc_thesis_vamshi.pdf))** Report 
 2. The YOLOv3, YOLOv4 and Detectron2 are tested on various PC configurations using webcam
 ![traj](others/performance.png)
 
