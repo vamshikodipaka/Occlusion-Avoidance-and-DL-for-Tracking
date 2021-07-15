@@ -1,0 +1,791 @@
+pip install cython
+  672  pip install cPython
+  673  pip install CPython
+  674  python3 -m pip install --upgrade pip
+  675  python3 -m pip3 install --upgrade pip
+  676  pip install CPython
+  677  pip install cython
+  678  pip3 install Cpython3.9
+  679  pip3 install Cpython2.6
+  680  pip3 install Cpython==2.6
+  681  pip install Cpython==2.6
+  682  pip install cython==2.6
+  683  pip install cython
+  684  pip install seasnake
+  685  pip install Nuitka
+  686  pip3 install Nuitka
+  687  gcc
+  688  version gcc
+  689  ver ]gcc
+  690  ver --gcc
+  691  gcc --ver
+  692  which gcc
+  693  where gcc
+  694  what gcc
+  695  gcc -version
+  696  gcc --version
+  697  nuitka --help
+  698  sudo apt install nuitka
+  699  pip install Nuitka
+  700  pip3 install Nuitka
+  701  python -m pip install nuitka
+  702  python3 -m pip install nuitka
+  703  cd Downloads/
+  704  dir
+  705  cd ..
+  706  cd Desktop/
+  707  cd 3DReconstruction/
+  708  dir
+  709  cd Calibration/
+  710  dir
+  711  python3 calibrate.py
+  712  cd Desktop/
+  713  cd 3DReconstruction/
+  714  python -m nuitka --mingw64 hello.py
+  715  python -m nuitka --mingw64 calibrate.py
+  716  python -m nuitka calibrate.py
+  717  cd Calibration/
+  718  python -m nuitka --mingw64 calibrate.py
+  719  python -m nuitka calibrate.py
+  720  pip install ccache
+  721  pip3 install ccache
+  722  sudo install ccache
+  723  pip -minstall ccache
+  724  pip -m install ccache
+  725  python -m nuitka calibrate.py
+  726  python -m nuitka calibrate.py --standalone
+  727  cd ..
+  728  dir
+  729  cd Reconstruction/
+  730  python -m nuitka calibrate.py --standalonepython -m nuitka desparity.py --standalone
+  731  python -m nuitka calibrate.py --standalonepython -m nuitka desparity.py
+  732  python3 -m nuitka calibrate.py --standalonepython -m nuitka desparity.py --standalone
+  733  python -m nuitka desparity.py --standalone
+  734  python -m nuitka disparity.py --standalone
+  735  python -m nuitka --follow-imports --include-plugin-directory=plugin_dir program.py
+  736  python -m nuitka --follow-imports --include-plugin-directory=plugin_dir calibrate.py --standalone
+  737  pip install chrpath
+  738  cd ..
+  739  cd Reconstruction/
+  740  python -m nuitka --follow-imports --include-plugin-directory=plugin_dir program.py
+  741  python -m nuitka --follow-imports --include-plugin-directory=plugin_dir disparity.py --standalone
+  742  pip install seasnake
+  743  pip3 install seasnake
+  744  sudo apt install seasnake
+  745  cd Desktop/
+  746  source virenv
+  747  source myenv
+  748  cd detectron2
+  749  source myenv
+  750  cd ..
+  751  source myenv
+  752  cd Desktop
+  753  pip  install virtualenv
+  754  pi3p  install virtualenv
+  755  pip3  install virtualenv
+  756  sudo pip3 install virtualenv 
+  757  source venv/bin/activate
+  758  source myenv/activate
+  759  source myenv/bin/activate
+  760  sudo pip3 install virtualenv 
+  761  pip install seasnake
+  762  sudo pip install seasnake
+  763  sudo -H pip install seasnake
+  764  pip3 install seasnake
+  765  sudo -H  pip3 install seasnake
+  766  ubuntu --version
+  767  ubuntu --ver
+  768  lsb_release -a
+  769  rosrun mavros mavsys mode -c OFFBOARD
+  770  cd ~/Firmware
+  771  ./Tools/setup/ubuntu.sh --no-sim-tools --no-nuttx
+  772  sudo apt install gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly libgstreamer-plugins-base1.0-dev
+  773  export QT_X11_NO_MITSHM=1
+  774  make px4_sitl_default gazebo
+  775  cd ..
+  776  cd..
+  777  make px4_sitl_default gazebo
+  778  cd ~/Firmware
+  779  sudo apt install gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly libgstreamer-plugins-base1.0-dev
+  780  export QT_X11_NO_MITSHM=1
+  781  make px4_sitl_default gazebo
+  782  ./Tools/setup/ubuntu.sh --no-sim-tools --no-nuttx
+  783  sudo apt install gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly libgstreamer-plugins-base1.0-dev
+  784  sudo apt-get upgrade 
+  785  . ~/Firmware/Tools/setup_gazebo.bash ~/Firmware ~/Firmware/build/px4_sitl_default
+  786  export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:~/Firmware
+  787  echo "export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:~/catkin_ws/src/avoidance/avoidance/sim/models:~/catkin_ws/src/avoidance/avoidance/sim/worlds" >> ~/.bashrc
+  788  sudo apt install ros-melodic-stereo-image-proc ros-melodic-image-view
+  789  sudo apt-get upgrade 
+  790  sudo apt-get upgrade
+  791  sudo apt-get update
+  792  sudo apt-get upgrade
+  793  roslaunch local_planner local_planner_stereo.launch
+  794  sudo apt install mavros
+  795  roslaunch local_planner local_planner_stereo.launch
+  796  sudo apt-get install ros-kinetic-mavros ros-kinetic-mavros-extras
+  797  wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/install_geographiclib_datasets.sh
+  798  sudo bash ./install_geographiclib_datasets.sh 
+  799  cd ..
+  800  mkdir -p ~/catkin_ws/src
+  801  cd ~/catkin_ws
+  802  catkin init
+  803  wstool init src
+  804  sudo sudo apt install python-wstool
+  805  sudo apt-get install python-catkin-tools python-rosinstall-generator -y
+  806  wstool init ~/catkin_ws/src
+  807  rosinstall_generator --rosdistro kinetic mavlink | tee /tmp/mavros.rosinstall
+  808  rosinstall_generator --upstream mavros | tee -a /tmp/mavros.rosinstall
+  809  rosinstall_generator --upstream-development mavros | tee -a /tmp/mavros.rosinstall
+  810  wstool merge -t src /tmp/mavros.rosinstall
+  811  wstool update -t src -j4
+  812  rosdep install --from-paths src --ignore-src -y
+  813  ./src/mavros/mavros/scripts/install_geographiclib_datasets.sh
+  814  catkin build
+  815  export QT_X11_NO_MITSHM=1
+  816  make px4_sitl_default gazebo
+  817  cd..
+  818  cd ..
+  819  cd ~/Firmware
+  820  export QT_X11_NO_MITSHM=1
+  821  make px4_sitl_default gazebo
+  822  cd ~/catkin_ws/src
+  823  git clone https://github.com/PX4/avoidance.git
+  824  catkin build -w ~/catkin_ws
+  825  catkin build -w ~/catkin_ws --cmake-args -DCMAKE_BUILD_TYPE=Release
+  826  cd ..
+  827  cd src
+  828  catkin build -w ~/catkin_ws --cmake-args -DCMAKE_BUILD_TYPE=Release
+  829  catkin build -w ~/catkin_ws
+  830  cd ..
+  831  cd ~/catkin_ws/src
+  832  mkdir -p ~/catkin_ws/src
+  833  sudo apt install ros-melodic-mavros ros-melodic-mavros-extras
+  834  wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/install_geographiclib_datasets.sh
+  835  chmod +x install_geographiclib_datasets.sh
+  836  sudo ./install_geographiclib_datasets.sh
+  837  sudo apt install libpcl1 ros-melodic-octomap-*
+  838  cd ~/catkin_ws/src
+  839  git clone https://github.com/PX4/avoidance.git
+  840  catkin build -w ~/catkin_ws
+  841  cd ..
+  842  mkdir -p ~/catkin_ws/src
+  843  cd ~/catkin_ws/src
+  844  git clone https://github.com/PX4/avoidance.git
+  845  catkin build -w ~/catkin_ws --cmake-args -DCMAKE_BUILD_TYPE=Release
+  846  echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+  847  source ~/.bashrc
+  848  cd ~
+  849  git clone https://github.com/PX4/Firmware.git --recursive
+  850  cd ~/Firmware
+  851  ./Tools/setup/ubuntu.sh --no-sim-tools --no-nuttx
+  852  sudo apt install gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly libgstreamer-plugins-base1.0-dev
+  853  export QT_X11_NO_MITSHM=1
+  854  make px4_sitl_default gazebo
+  855  source ~/.bashrc
+  856  make px4_sitl_default gazebo
+  857  sudo apt install gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly libgstreamer-plugins-base1.0-dev.
+  858  sudo apt install gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly libgstreamer-plugins-base1.0-dev
+  859  make px4_sitl_default gazebo
+  860  source start_sim1.sh
+  861  roslaunch interiit21 interiit_world1.launch 
+  862  rosrun aerointer takeoff.py 
+  863  roslaunch interiit21 interiit_world1.launch 
+  864  cd src
+  865  cd source
+  866  dir
+  867  cd script/
+  868  rosrun aerointer takeoff.py 
+  869  source start_sim1.sh
+  870  rosrun takeoff.py 
+  871  rosrun script takeoff.py 
+  872  cd..
+  873  cd .. 
+  874  rosrun script takeoff.py 
+  875  rospack script
+  876  rospack script takeoff.py
+  877  rosrun takeoff.py
+  878  cd .. 
+  879  cd ..
+  880  rosdep update
+  881  mkdir -p ~/catkin_ws/src
+  882  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+  883  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+  884  sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+  885  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+  886  sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+  887  sudo apt install ros-melodic-desktop-full ros-melodic-joy ros-melodic-octomap-ros ros-melodic-mavlink ros-melodic-octomap-mapping
+  888  sudo apt list --upgradable
+  889  sudo -H apt list --upgradable
+  890  sudo apt-get list --upgradable
+  891  apt list --upgradable
+  892  pip apt list --upgradable
+  893  rosdep apt list --upgradable
+  894  sudo apt-get update
+  895  sudo apt install ros-melodic-desktop-full ros-melodic-joy ros-melodic-octomap-ros ros-melodic-mavlink ros-melodic-octomap-mapping
+  896  sudo apt install python-wstool python-catkin-tools protobuf-compiler libgoogle-glog-dev ros-melodic-control-toolbox
+  897  sudo rosdep init
+  898  rosdep update
+  899  echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+  900  source ~/.bashrc
+  901  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+  902  rosdep update
+  903  echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+  904  source ~/.bashrc
+  905  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+  906  sudo rosdep init
+  907  rosdep update
+  908  echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+  909  source ~/.bashrc
+  910  rosrun mavros mavsafety arm
+  911  cd ..
+  912  echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+  913  source ~/.bashrc
+  914  cd ~
+  915  git clone https://github.com/PX4/Firmware.git --recursive
+  916  cd ~/Firmware
+  917  ./Tools/setup/ubuntu.sh --no-sim-tools --no-nuttx
+  918  sudo apt install gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly libgstreamer-plugins-base1.0-dev
+  919  export QT_X11_NO_MITSHM=1
+  920  make px4_sitl_default gazebo
+  921  sudo apt-get upgrade
+  922  sudo apt-get update
+  923  make px4_sitl_default gazebo
+  924  cd ~/catkin_ws/src
+  925  sudo apt-get install ros-kinetic-mavros ros-kinetic-mavros-extras
+  926  wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/install_geographiclib_datasets.sh
+  927  sudo bash ./install_geographiclib_datasets.sh
+  928  mkdir -p ~/catkin_ws/src
+  929  cd ~/catkin_ws
+  930  catkin init
+  931  wstool init src
+  932  sudo apt-get install python-catkin-tools python-rosinstall-generator -y
+  933  wstool init ~/catkin_ws/src
+  934  rosinstall_generator --rosdistro kinetic mavlink | tee /tmp/mavros.rosinstall
+  935  rosinstall_generator --upstream mavros | tee -a /tmp/mavros.rosinstall
+  936  rosinstall_generator --upstream-development mavros | tee -a /tmp/mavros.rosinstall
+  937  wstool merge -t src /tmp/mavros.rosinstall
+  938  ./src/mavros/mavros/scripts/install_geographiclib_datasets.sh
+  939  catkin build
+  940  source devel/setup.bash
+  941  sudo ./install_geographiclib_datasets.sh
+  942  wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/install_geographiclib_datasets.sh
+  943  chmod +x install_geographiclib_datasets.sh
+  944  sudo ./install_geographiclib_datasets.sh
+  945  sudo apt install libpcl1 ros-melodic-octomap-*
+  946  cd ~/catkin_ws/src
+  947  catkin build -w ~/catkin_ws --cmake-args -DCMAKE_BUILD_TYPE=Release
+  948  echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+  949  source ~/.bashrc
+  950  cd ~/Firmware
+  951  ./Tools/setup/ubuntu.sh --no-sim-tools --no-nuttx
+  952  sudo apt install gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly libgstreamer-plugins-base1.0-dev
+  953  export QT_X11_NO_MITSHM=1
+  954  make px4_sitl_default gazebo
+  955  cd..
+  956  cd ..
+  957  pwd
+  958  rosversion -d
+  959  cd Downloads/
+  960  cd Obstacle_Avoidance_drone_simulation-main/
+  961  dir
+  962  roscore
+  963  dir
+  964  cd ardupilot/
+  965  dir
+  966  cd ArduCopter/
+  967  sim_vehicle.py 
+  968  bash: /home/vamshi/catkin_ws/devel/setup.bash: No such file or directory
+  969  source/opt/ros/jade/setup.bash
+  970  gedit ~/.bashrc
+  971  source/opt/ros/jade/setup.bash
+  972  gedit ~/.bashrc
+  973  source bashrc
+  974  source ~/.bashrc
+  975  echo "source/opt/ros/jade/setup.bash" >> ~/.bashrc
+  976  source ~/catkin_ws/devel/setup.zsh
+  977  gedit ~/.bashrc
+  978  source ~/.bashrc
+  979  gedit ~/.bashrc
+  980  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+  981  sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+  982  sudo apt update
+  983  sudo apt install ros-melodic-desktop-full ros-melodic-joy ros-melodic-octomap-ros ros-melodic-mavlink ros-melodic-octomap-mapping
+  984  rosrun apt list --upgradable
+  985  rosrun apt-get list --upgradable
+  986  apt-get list --upgradable
+  987  apt-get list --upgrade
+  988  sudo apt-get list --upgrade
+  989  sudo apt-get --upgrade
+  990  sudo apt upgrade list
+  991  sudo apt-get upgrade list
+  992  sudo apt-get upgrade --list
+  993  sudo apt --upgrade list
+  994  rosrun apt --upgrade list
+  995  sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+  996  sudo apt-get update
+  997  sudo apt install ros-melodic-desktop-full ros-melodic-joy ros-melodic-octomap-ros ros-melodic-mavlink ros-melodic-octomap-mapping
+  998  sudo apt-get  remove ros-kinetic-desktop-full
+  999  sudo apt-get purge ros-*
+ 1000  sudo rm -rf /etc/ros
+ 1001  gedit ~/. bashrc
+ 1002  sudo apt-get remove ros-*
+ 1003  sudo apt autoremove
+ 1004  cd ~
+ 1005  sudo apt install git
+ 1006  git clone https://github.com/ArduPilot/ardupilot.git
+ 1007  cd ardupilot
+ 1008  git checkout Copter-3.6
+ 1009  git submodule update --init --recursive
+ 1010  sudo apt install python-matplotlib python-serial python-wxgtk3.0 python-wxtools python-lxml python-scipy python-opencv ccache gawk python-pip python-pexpect
+ 1011  sudo pip install future pymavlink MAVProxy
+ 1012  sudo -H pip install future pymavlink MAVProxy
+ 1013  /usr/bin/python3 -m pip install --upgrade pip
+ 1014  sudo /usr/bin/python3 -m pip install --upgrade pip
+ 1015  pip3 install --upgrade pip
+ 1016  gedit ~/.bashrc
+ 1017  . ~/.bashrc
+ 1018  cd ~/ardupilot/ArduCopter
+ 1019  sim_vehicle.py -w
+ 1020  cd ..
+ 1021  sudo usermod -a -G dialout $USER
+ 1022  sudo apt-get remove modemmanager
+ 1023  wget https://s3-us-west-2.amazonaws.com/qgroundcontrol/latest/QGroundControl.AppImage
+ 1024  chmod +x ./QGroundControl.AppImage
+ 1025  ./QGroundControl.AppImage
+ 1026  cd ~/ardupilot/ArduCopter/
+ 1027  sim_vehicle.py
+ 1028  ./QGroundControl.AppImage
+ 1029  cd ..
+ 1030  ccd ..
+ 1031  cd..
+ 1032  cd ..
+ 1033  ./QGroundControl.AppImage
+ 1034  sudo sh -c 'echo "deb http://packages.osrfoundation.org/gazebo/ubuntu-stable `lsb_release -cs` main" > /etc/apt/sources.list.d/gazebo-stable.list'
+ 1035  wget http://packages.osrfoundation.org/gazebo.key -O - | sudo apt-key add -
+ 1036  sudo apt update
+ 1037  sudo apt install gazebo9 libgazebo9-dev
+ 1038  cd ~
+ 1039  git clone https://github.com/khancyr/ardupilot_gazebo.git
+ 1040  cd ardupilot_gazebo
+ 1041  git checkout dev
+ 1042  mkdir build
+ 1043  cd build
+ 1044  cmake ..
+ 1045  make -j4
+ 1046  sudo make install
+ 1047  echo 'source /usr/share/gazebo/setup.sh' >> ~/.bashrc
+ 1048  echo 'export GAZEBO_MODEL_PATH=~/ardupilot_gazebo/models' >> ~/.bashrc
+ 1049  . ~/.bashrc
+ 1050  gazebo --verbose ~/ardupilot_gazebo/worlds/iris_arducopter_runway.world
+ 1051  cd ..
+ 1052  cd
+ 1053  cd ~/ardupilot/ArduCopter/
+ 1054  sim_vehicle.py -v ArduCopter -f gazebo-iris --console
+ 1055  sudo rm /etc/apt/sources.list.d/*.disable
+ 1056  cd /etc/ap
+ 1057  sudo rm /etc/apt/sources.list.d/*.disable
+ 1058  cd /etc/apt
+ 1059  grep -rw karmic *
+ 1060  sudo rm /etc/apt/sources.list.d/*.disable
+ 1061  sudo -rm /etc/apt/sources.list.d/*.disable
+ 1062  sudo sh -c "echo 'Dir::Ignore-Files-Silently:: \"(.save|.distupgrade)$\";' > /etc/apt/apt.conf.d/99ignoresave"
+ 1063  sudo rm /etc/apt/sources.list.d/*.disable
+ 1064  To fix your first problem run this in a terminal:
+ 1065  sudo rm /etc/apt/sources.list.d/*.disable
+ 1066  sudo mv /etc/apt/sources.list.d/pgdg.listwget /etc/apt/sources.list.d/pgdg.list
+ 1067  apt-config dump | grep -i ignore
+ 1068  sudo -rm /etc/apt/sources.list.d/*.disable
+ 1069  cd ..
+ 1070  sudo rm /etc/apt/sources.list.d/*.disable
+ 1071  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+ 1072  sudo apt install curl # if you haven't already installed curl
+ 1073  curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
+ 1074  sudo apt update
+ 1075  apt list --upgradable
+ 1076  sudo apt install ros-melodic-desktop-full
+ 1077  sudo apt autoremove
+ 1078  sudo apt install ros-melodic-desktop-full
+ 1079  sudo rm /etc/apt/sources.list.d/*.disable
+ 1080  sudo apt install ros-melodic-desktop-full
+ 1081  sudo rm /etc/apt/sources.list.d/ros-latest.listsudo
+ 1082  sudo rm ros-latest.list
+ 1083  cd
+ 1084  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+ 1085  sudo apt install ros-melodic-desktop-full
+ 1086  gedit ~/.bashrc
+ 1087  apt search ros-melodic
+ 1088  echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+ 1089  source ~/.bashrc
+ 1090  source /opt/ros/melodic/setup.bash
+ 1091  sudo apt install python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential
+ 1092  sudo apt install python-rosdep
+ 1093  sudo rosdep init
+ 1094  rosdep update
+ 1095  sudo apt-get install python-wstool python-rosinstall-generator python-catkin-tools
+ 1096  mkdir -p ~/catkin_ws/src
+ 1097  cd ~/catkin_ws
+ 1098  catkin init
+ 1099  cd ~/catkin_ws
+ 1100  wstool init ~/catkin_ws/src
+ 1101  rosinstall_generator --upstream mavros | tee /tmp/mavros.rosinstall
+ 1102  rosinstall_generator mavlink | tee -a /tmp/mavros.rosinstall
+ 1103  wstool merge -t src /tmp/mavros.rosinstall
+ 1104  wstool update -t src
+ 1105  rosdep install --from-paths src --ignore-src --rosdistro `echo $ROS_DISTRO` -y
+ 1106  catkin build
+ 1107  echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+ 1108  source ~/.bashrc
+ 1109  sudo ~/catkin_ws/src/mavros/mavros/scripts/install_geographiclib_datasets.sh
+ 1110  cd ~/catkin_ws/src
+ 1111  git clone https://github.com/Intelligent-Quads/iq_sim.git
+ 1112  echo "GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:$HOME/catkin_ws/src/iq_sim/models" >> ~/.bashrc
+ 1113  cd ~/catkin_ws
+ 1114  catkin build
+ 1115  source ~/.bashrc
+ 1116  sudo apt install ros-melodic-gazebo-ros ros-melodic-gazebo-plugins
+ 1117  roslaunch iq_sim runway.launch
+ 1118  cp ~/catkin_ws/src/iq_sim/scripts/startsitl.sh ~
+ 1119  ~/startsitl.sh
+ 1120  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+ 1121  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+ 1122  sudo apt-get update
+ 1123  sudo apt-get install sublime-text
+ 1124  cd catkin_ws/src/
+ 1125  subl .
+ 1126  git clone https://github.com/Intelligent-Quads/iq_gnc.git
+ 1127  add_executable(square src/square.cpp)
+ 1128  target_link_libraries(square ${catkin_LIBRARIES})
+ 1129  cd ~/catkin_ws
+ 1130  catkin build
+ 1131  source ~/.bashrc
+ 1132  ./startsitl.sh
+ 1133  cd ..
+ 1134  ./startsitl.sh
+ 1135  roslaunch iq_sim apm.launch
+ 1136  rosrun iq_gnc square
+ 1137  cd ~/catkin_ws
+ 1138  catkin build
+ 1139  source ~/.bashrc
+ 1140  roslaunch iq_sim runway.launch
+ 1141  ./startsitl.sh
+ 1142  cd ..
+ 1143  ./startsitl.sh
+ 1144  roslaunch iq_sim apm.launch
+ 1145  rosrun iq_gnc square
+ 1146  cd ~/catkin_ws
+ 1147  catkin build
+ 1148  source ~/.bashrc
+ 1149  roslaunch iq_sim runway.launch
+ 1150  rosrun iq_gnc square
+ 1151  ./startsitl.sh
+ 1152  cd ..
+ 1153  ./startsitl.sh
+ 1154  roslaunch iq_sim apm.launch
+ 1155  cd catkin_ws/
+ 1156  roslaunch iq_sim runway.launch
+ 1157  cd ..
+ 1158  cd catkin_ws/
+ 1159  ./startsitl.sh
+ 1160  Cd..
+ 1161  cd ..
+ 1162  ./startsitl.sh
+ 1163  rosrun iq_gnc square
+ 1164  sudo apt install mercurial
+ 1165  git clone https://github.com/osrf/gazebo_models.git
+ 1166  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1167  source ~/.bashrc
+ 1168  cd catkin_ws/
+ 1169  cd src
+ 1170  cd iq_sim/
+ 1171  cd worlds/
+ 1172  roslaunch iq_sim hills.launch
+ 1173  cd catkin_ws/
+ 1174  cd src
+ 1175  cd iq_sim/
+ 1176  cd worlds/
+ 1177  roslaunch iq_sim hills.launch
+ 1178  cd
+ 1179  cd catkin_ws/
+ 1180  CD src/
+ 1181  cd src/
+ 1182  cd iq_sim/
+ 1183  cd launch/
+ 1184  roslaunch iq_sim hills.launch
+ 1185  cd ~
+ 1186  roslaunch iq_sim hills.launch
+ 1187  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1188  source ~/.bashrc
+ 1189  roslaunch iq_sim hills.launch
+ 1190  cd catkin_ws/src
+ 1191  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1192  source ~/.bashrc
+ 1193  roslaunch iq_sim hills.launch
+ 1194  roslaunch iq_sim runway.launch
+ 1195  git clone https://github.com/osrf/gazebo_models.git
+ 1196  cd ~
+ 1197  git clone https://github.com/osrf/gazebo_models.git
+ 1198  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1199  source ~/.bashrc
+ 1200  roslaunch iq_sim river.launch
+ 1201  sudo apt install nvidia-cuda-toolkit
+ 1202  cd ~/catkin_ws/src
+ 1203  git clone --recursive https://github.com/leggedrobotics/darknet_ros.git
+ 1204  catkin build -DCMAKE_BUILD_TYPE=Release 
+ 1205  catkin build -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=/usr/bin/gcc-6
+ 1206  roslaunch iq_sim boat.launch
+ 1207  cd catkin_ws/
+ 1208  cd src/
+ 1209  cd ~/catkin_ws/src
+ 1210  cd iq_sim/
+ 1211  cd worlds/
+ 1212  cd ..
+ 1213  roslaunch iq_sim hills.launch
+ 1214  cd~
+ 1215  cd ~
+ 1216  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1217  source ~/.bashrc
+ 1218  roslaunch iq_sim hills.launch
+ 1219  cd ~/catkin_ws/src
+ 1220  cd ~
+ 1221  roslaunch iq_sim runway.launch
+ 1222  roslaunch iq_sim boat.launch
+ 1223  roslaunch iq_sim hills.launch pause:=false
+ 1224  roslaunch iq_sim hills.launch verbose:=true
+ 1225  cd catkin_ws/src/
+ 1226  roslaunch iq_sim hills.launch verbose:=true
+ 1227  cd
+ 1228  curl -sSL http://get.gazebosim.org | sh
+ 1229  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1230  source ~/.bashrc
+ 1231  roslaunch iq_sim hills.launch verbose:=true
+ 1232  roslaunch iq_sim hills.launch pause:=false
+ 1233  roslaunch iq_sim hills.launch 
+ 1234  roslaunch iq_sim hills.launch pause:=false
+ 1235  roslaunch iq_sim hills.launch verbose:=true
+ 1236  killall -s SIGINT gzserver
+ 1237  kill $!
+ 1238  gazebo_ros/scripts/gazebo killall gzserver -9
+ 1239  cd ~/gazebo_ros/scripts/gazebo killall gzserver -9
+ 1240  cd ~/gazebo_ros/scripts/gazebo
+ 1241  dir
+ 1242  roslaunch iq_sim runway.launch
+ 1243  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1244  source ~/.bashrc
+ 1245  roslaunch iq_sim runway.launch
+ 1246  ./startsitl.sh
+ 1247  roslaunch iq_sim runway.launch
+ 1248  ./startsitl.sh
+ 1249  roslaunch iq_sim apm.launch
+ 1250  rosrun iq_gnc square
+ 1251  roslaunch darknet_ros darknet_ros.launch
+ 1252  catkin build -DCMAKE_BUILD_TYPE=Release
+ 1253  cd catkin_ws/src/
+ 1254  catkin build -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=/usr/bin/gcc-6
+ 1255  roslaunch darknet_ros darknet_ros.launch
+ 1256  roslaunch iq_sim runway.launch
+ 1257  ./startsitl.sh
+ 1258  roslaunch iq_sim apm.launch
+ 1259  rosrun iq_gnc square
+ 1260  ./startsitl.sh
+ 1261  roslaunch iq_sim apm.launch
+ 1262  ./startsitl.sh
+ 1263  rosrun iq_gnc square
+ 1264  cd catkin_ws/src/
+ 1265  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1266  source ~/.bashrc
+ 1267  cd ~
+ 1268  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1269  source ~/.bashrc
+ 1270  roslaunch iq_sim roadcon.launch
+ 1271  gazebo
+ 1272  cd catkin_ws/
+ 1273  cd src/
+ 1274  dir
+ 1275  cd iq_sim/
+ 1276  dir
+ 1277  cd worlds/
+ 1278  dir
+ 1279  gazebo runway.world
+ 1280  rosgazebo runway.world
+ 1281  cd ..
+ 1282  gazebo runway.world
+ 1283  dir
+ 1284  cd iq_sim/
+ 1285  dir
+ 1286  cd world
+ 1287  cd worlds
+ 1288  dir
+ 1289  gazebo runway.world
+ 1290  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1291  source ~/.bashrc
+ 1292  roslaunch iq_sim runway.launch
+ 1293  cd ~
+ 1294  ./startsitl.sh
+ 1295  roslaunch iq_sim apm.launch
+ 1296  rosrun iq_gnc square
+ 1297  roslaunch iq_sim apm.launch
+ 1298  ./startsitl.sh
+ 1299  roslaunch iq_sim runway.launch
+ 1300  ./startsitl.sh
+ 1301  roslaunch iq_sim apm.launch
+ 1302  rosrun iq_gnc square
+ 1303  roslaunch iq_sim runway.launch
+ 1304  ./startsitl.sh
+ 1305  roslaunch iq_sim apm.launch
+ 1306  gedit ~/.bashrc
+ 1307  source
+ 1308  source ~/.bashrc
+ 1309  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1310  source ~/.bashrc
+ 1311  roslaunch iq_sim hills.launch
+ 1312  git clone https://github.com/osrf/gazebo_models.git
+ 1313  echo 'export GAZEBO_MODEL_PATH=~/gazebo_ws/gazebo_models:${GAZEBO_MODEL_PATH}' >> ~/.bashrc
+ 1314  source ~/.bashrc
+ 1315  roslaunch iq_sim runway.launch
+ 1316  ./startsitl.sh
+ 1317  roslaunch iq_sim apm.launch
+ 1318  gedit ~/.bashrc
+ 1319  python setup.py install
+ 1320  roslaunch iq_sim runway.launch
+ 1321  ./startsitl.sh
+ 1322  roslaunch iq_sim apm.launch
+ 1323  rosrun iq_gnc square
+ 1324  roslaunch darknet_ros darknet_ros.launch
+ 1325  roslaunch iq_sim runway.launch
+ 1326  ./startsitl.sh
+ 1327  catkin build -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=/usr/bin/gcc-6
+ 1328  roslaunch darknet_ros darknet_ros.launch
+ 1329  sudo apt install nvidia-cuda-toolkit
+ 1330  sudo apt-get upgrade
+ 1331  sudo apt-get update
+ 1332  sudo apt-get upgrade
+ 1333  sudo apt install nvidia-cuda-toolkit
+ 1334  sudo apt install nvidia-cuda-drivers
+ 1335  sudo apt install cuda-drivers
+ 1336  sudo apt install cuda
+ 1337  sudo apt install libgl-mesa0
+ 1338  sudo apt install libgl-mesa
+ 1339  sudo apt install libegl-mesa0
+ 1340  sudo apt install libegl
+ 1341  sudo apt install cuda cuda-drivers libegl-mesa0 libgbm1 libgl1-mesa-dri libglapi-mesa
+ 1342  sudo apt install 
+ 1343  sudo apt install libgbm1
+ 1344  sudo apt install libgl1-mesa-dri
+ 1345  sudo apt install libglapi-mesa
+ 1346  sudo apt install libglx-mesa0
+ 1347  sudo apt install libxtracker2
+ 1348  sudo apt install libxatracker2
+ 1349  sudo apt install linux-generic
+ 1350  sudo apt install linux-headers-generic
+ 1351  sudo apt install linux-image-generic
+ 1352  sudo apt install mesa-va-drivers-common
+ 1353  sudo apt install mesa-va-drivers
+ 1354  sudo apt install mesa-vdpau-drivers
+ 1355  sudo apt install ubuntu-advantage-tools
+ 1356  sudo apt install ubuntu-drivers-common
+ 1357  sudo apt-get update
+ 1358  sudo apt-get upgrade
+ 1359  roslaunch iq_sim apm.launch
+ 1360  rosrun iq_gnc square
+ 1361  roslaunch iq_sim runway.launch
+ 1362  ./startsitl.sh
+ 1363  roslaunch iq_sim apm.launch
+ 1364  roslaunch darknet_ros darknet_ros.launch
+ 1365  cuda
+ 1366  nvcc --version
+ 1367  roscore
+ 1368  roslaunch iq_sim runway.launch
+ 1369  ./startsitl.sh
+ 1370  roslaunch iq_sim apm.launch
+ 1371  rosrun iq_gnc square
+ 1372  roslaunch iq_sim runway.launch
+ 1373  ./startsitl.sh
+ 1374  roslaunch iq_sim apm.launch
+ 1375  ./startsitl.sh
+ 1376  rosrun iq_gnc square
+ 1377  roslaunch darknet_ros darknet_ros.launch
+ 1378  roslaunch iq_sim runway.launch
+ 1379  ./startsitl.sh
+ 1380  roslaunch iq_sim apm.launch
+ 1381  python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+ 1382  git clone https://github.com/facebookresearch/detectron2.git
+ 1383  python -m pip install -e detectron2
+ 1384  python -m pip install python==3.6
+ 1385  pip install python==3.6
+ 1386  pip install python==3.7
+ 1387  pip install python==4.1
+ 1388  pip install python==4.1.1.25
+ 1389  pip3 install python==4.1.1.25
+ 1390  sudo add-apt-repository ppa:deadsnakes/ppa
+ 1391  sudo apt update
+ 1392  python -V
+ 1393  python3.6 
+ 1394  python -V
+ 1395  sudo apt-get install python3.6
+ 1396  sudo apt-get update
+ 1397  sudo apt-get upgrade
+ 1398  python -V
+ 1399  sudo apt install software-properties-common
+ 1400  sudo apt install python3.8
+ 1401  python --version
+ 1402  python3 --version
+ 1403  python3 -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+ 1404  pip install pytorch==1.7
+ 1405  pip3 install pytorch==1.7
+ 1406  pip3 install Pytorch==1.7
+ 1407  pip install torchvision==1.7
+ 1408  pip install torchvision==0.1.7
+ 1409  sudo apt-get install python-pip
+ 1410  .sudo pip install virtualenv
+ 1411  sudo pip install virtualenv
+ 1412  mkdir ~/.virtualenvs
+ 1413  sudo pip install virtualenvwrapper
+ 1414  export WORKON_HOME=~/.virtualenvs
+ 1415  echo '. /usr/local/bin/virtualenvwrapper.sh' >> ~/.bashrc 
+ 1416  mkvirtualenv --python=python3 detectron2_ros
+ 1417  which python3
+ 1418  mkvirtualenv --python='which python3' detectron2_ros
+ 1419  mkvirtumkvirtualenv testalenv --python='which python3' detectron2_ros
+ 1420  mkvirtualenv test
+ 1421  source "/usr/bin/virtualenvwrapper.sh"
+ 1422  export WORKON_HOME="/opt/virtual_env/"
+ 1423  mkvirtualenv --python='which python3' detectron2_ros
+ 1424  pwd
+ 1425  cd usr/bin
+ 1426  cd /usr/bin
+ 1427  cd ~/usr/bin
+ 1428  cd /home/vamshi/usr/bin
+ 1429  cd vamshi/usr/bin
+ 1430  cd usr/bin
+ 1431  cd /vamshi/usr/bin
+ 1432  sudo pip install virtualenvwrapper
+ 1433  cd ..
+ 1434  cd local
+ 1435  cd bin
+ 1436  sudo pip install virtualenvwrapper
+ 1437  cd
+ 1438  gedit ~/.bashrc
+ 1439  export WORKON_HOME=~/.virtualenvs
+ 1440  echo '. /usr/local/bin/virtualenvwrapper.sh' >> ~/.bashrc 
+ 1441  mkvirtualenv --python=python3 detectron2_ros
+ 1442  cd /usr/local/bin
+ 1443  sudo apt-get install python-pip
+ 1444  sudo pip install virtualenv
+ 1445  mkdir ~/.virtualenvs
+ 1446  sudo pip install virtualenvwrapper
+ 1447  export WORKON_HOME=~/.virtualenvs
+ 1448  echo '. /usr/local/bin/virtualenvwrapper.sh' >> ~/.bashrc 
+ 1449  mkvirtualenv --python=python3 detectron2_ros
+ 1450  sudo apt-get install python3-pip
+ 1451  mkvirtualenv test
+ 1452  cd
+ 1453  roslaunch iq_sim runway.launch
+ 1454  deactivate
+ 1455  gedit ~/.bashrc
+ 1456  source ~/.bashrc
+ 1457  ~/. bash_history 
+ 1458  cd
+ 1459  pwd
+ 1460  history
+
