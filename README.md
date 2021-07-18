@@ -36,7 +36,7 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 ### Prerequisites
 #### YOLOv3:
 * Transfer Learning – pre-trained net, pretrained weights, predef-annotations
-* TensorFlow 1.15, Keras 2.2.4, Numpy 1.16, Opencv 3.6.9,python 3.2.4.17
+* TensorFlow 1.15, Keras 2.2.4, Numpy 1.16, Opencv 3.2.4.17, python 3.6.9 
 * batch size: 8 (can be 8 or 32). Batch Norm Epsilon= 1e-5, leaky ReLU=0.1, anchor boxes - 9 no.s, epoches: CPU
 * Backbone: Darknet-53 residual connections, 72 Conv. Layers, Upsample layer, Non-max suppression
 * COCO Dataset: 80 classes
