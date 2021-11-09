@@ -75,7 +75,7 @@ Thanks to YOLOv4 and Detectron2 software, they are cloned as it is.
 Their installations are adopted to our PC configurations in proper way and then it was magic. 
 
 ### Results
-1. Please refer our Time of Occlusion Formulation available as case1 and case2 in Chapter-3 of Msc **[Thesis](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/msc_thesis_vamshi.pdf)** Report 
+1. Please refer our Time of Occlusion Computation available as case1 and case2 in Chapter-3 of Msc **[Thesis](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/msc_thesis_vamshi.pdf)** Report 
 2. The YOLOv3, YOLOv4 and Detectron2 are tested on various PC configurations using webcam
 ![traj](others/performance.png)
 
