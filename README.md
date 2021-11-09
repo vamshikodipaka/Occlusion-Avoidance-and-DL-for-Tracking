@@ -28,7 +28,7 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 
 [CASE-1: Straight line moving target with constant velocity](others/case1.jpg)
 
-[CASE-1: Moving Target with time-varing speed with constant acceleration](others/case2.jpg)
+[CASE-2: Moving Target with time-varing speed with constant acceleration](others/case2.jpg)
 
 ### Prerequisites
 #### YOLOv3:
@@ -79,7 +79,7 @@ Their installations are adopted to our PC configurations in proper way and then 
 MSC Thesis Defended on 06 July 2020
 
 ### Future Work
-1. Tuning YOLO and Detectron2 to Depth based Tracking using "Triangle similarity technique"
+1. Tuning YOLO and Detectron2 to Depth based Tracking using "Triangluar similarity technique"
 2. Implementing the software on Robotic platforms
 (Under construction)
 
