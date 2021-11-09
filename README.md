@@ -64,11 +64,11 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 
 #### b. Run YOLOv4 and Detectron2 webcam based tracking (all tested on LAAS PC)
 1. for YOLOv4 webcam object tracking - follow the commands instructed in 'history linux20' file
-   1. output of YOLOv4 CPU found here: **[Click_here-3](https://youtu.be/RpzwnDiODpA)**
-   2. output of YOLOv4 GPU found here: **[Click_here-4](https://youtu.be/06AHNylwcoo)**
+   1. output of YOLOv4 CPU found here: **[Click here-3](https://youtu.be/RpzwnDiODpA)**
+   2. output of YOLOv4 GPU found here: **[Click here-4](https://youtu.be/06AHNylwcoo)**
 2. for Detectron2 webcam object tracking - follow the commands instructed in 'history linux20' file
-   1. output of Detectron2 CPU found here: **[Click_here-5](https://youtu.be/rZjaWulg4lQ)**
-   2. output of Detectron2 GPU found here: **[Click_here-6](https://youtu.be/LFksvpn_jSs)**
+   1. output of Detectron2 CPU found here: **[Click here-5](https://youtu.be/rZjaWulg4lQ)**
+   2. output of Detectron2 GPU found here: **[Click here-6](https://youtu.be/LFksvpn_jSs)**
 
 Thanks to YOLOv4 and Detectron2 software, they are cloned as it is.
 
@@ -91,6 +91,6 @@ MSC Thesis Defended on 06 July 2020
 
 ### Obstacle Avoidance Testing (Part-2)
 1. Drone Simulation uses ROS, Gazebo, Ardupilot, mavros, mavlink,darknet-ros packages
-2. Output : Drone Flight Simulation with ros-webcam video "Sim4.mp4" is **[Click_here-7](https://youtu.be/dP2IDDWtQfU)**
+2. Output : Drone Flight Simulation with ros-webcam video "Sim4.mp4" is **[Click here-7](https://youtu.be/dP2IDDWtQfU)**
 
 Object Detection work in progess ... (in ROS-Gazebo-DroneFlightSimulation)
