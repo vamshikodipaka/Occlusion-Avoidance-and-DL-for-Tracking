@@ -11,7 +11,7 @@ Math Model for Time of Occlusion and Tracking by Deep Learning (Multi-Object Tra
 * [Results](#Results)
 
 ### Introduction
-This repository contain the internship work on "Vision based Multi-robot Tracking of Target with Aerial and Ground Robots". This work is carried at LAAS-CNRS, Toulouse, France as a part of my Master thesis internship  2020 under the supervision of Prof. Antonio Franchi in coordination with Mr.Martin Jacquet(PhD) within ANR Project MuroPhen. This project is licensed under the terms of the BSD 3-Clause.
+This repository contain the internship work on "Vision based Multi-robot Tracking of Target with Aerial and Ground Robots". This work is carried at LAAS-CNRS, Toulouse, France as a part of my Master thesis internship  2020 under the supervision of Prof. Antonio Franchi (Researcher, RIS Team) in coordination with Mr.Martin Jacquet(PhD) within ANR Project MuroPhen. This project is licensed under the terms of the BSD 3-Clause.
 
 ### Abstract
 Recent research in Aerial Robotics defines Visual Tracking Methods deployed on Quadrotors. The idea is to study the existing state-of-the-art real time tracking algorithms and free to adopt the existing ones considering the problem of occlusion avoidance. Occlusions are mostly unpredictable and still ongoing research in tracking scenarios. The inability to track the object’s features when some obstacle is encountered in between the camera field of view and moving target are usually termed as ’Phenomenon of Occlusion’. The physical world obstacles causing these phenomenon are called ‘Occlusions’. Basically, occlusions are two types. One is Spatio-temporal: No occlusion, partial occlusion & full occlusion. Other one is Time sequences based: Regular time occlusions and Irregular time occlusions.
