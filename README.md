@@ -26,11 +26,11 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 3. Use of GPU with CUDA, CuDNN
 4. Tuning YOLO and Detectron2 to Depth based Tracking system
 
-### Occlusion Avoidance: Time of Occlusion Computation (glimpse)
-## Case-1:
+## Occlusion Avoidance: Time of Occlusion Computation (glimpse)
+### Case-1:
 ![CASE-1: Straight line moving target with constant velocity](others/case1.JPG)
 
-## Case-2:
+### Case-2:
 ![CASE-2: Moving target with time-varying speed with constant acceleration](others/case2.JPG)
 
 ### Prerequisites
