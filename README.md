@@ -21,7 +21,7 @@ Deploying a tracking algorithm considering the Occlusion Avoidance is a challeng
 After a rigorous study of 10 Standard Robotic papers and over 20 papers on state-of-the-art Deep Neural Networks, the latest evolutions like YOLO, RetinaNet and Joint Monocular 3D Tracking surely believed to be future milestones upon using these tracking networks on Aerial Vehicles. Each one of them is expected to do potentially well & therefore these algorithms are tested and reported with qualitative results.
 
 ### Highlights:
-1. A novel math nodel: Refer chapter-3 in this **[thesis](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/msc_thesis_vamshi.pdf)** document or slide no.8 & 9 from thesis **[ppt](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/MSC%20Presentation%20Vamshi.pdf)**
+1. A Full novel math model: Refer chapter-3 in this **[thesis](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/msc_thesis_vamshi.pdf)** document or slide no.8 & 9 from thesis **[ppt](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/MSC%20Presentation%20Vamshi.pdf)**
 2. Tracking by Deep Learning Models: YOLOv3, YOLOv4 and Detectron2
 3. Use of GPU with CUDA, CuDNN
 4. Tuning YOLO and Detectron2 to Depth based Tracking system
