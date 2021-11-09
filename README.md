@@ -27,9 +27,9 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 4. Tuning YOLO and Detectron2 to Depth based Tracking system
 
 ### Occlusion Avoidance: Time of Occlusion Computation (glimpse)
-![case1](others/case1.jpg)
+![CASE-1: Straight line moving target with constant velocity](others/case1.JPG)
 
-![case2](others/case2.jpg)
+![CASE-2: Moving target with time-varying speed with constant acceleration](others/case2.JPG)
 
 ### Prerequisites
 #### YOLOv3:
