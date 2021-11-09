@@ -28,6 +28,7 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 
 ### Occlusion Avoidance: Time of Occlusion Formalutaions 
 [CASE-1: Straight line moving target with constant velocity](others/case1.JPG)
+
 [CASE-2: Moving Target with time-varing speed with constant acceleration](others/case2.JPG)
 
 ### Prerequisites
