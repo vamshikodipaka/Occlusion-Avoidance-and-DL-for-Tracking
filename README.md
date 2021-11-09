@@ -72,7 +72,7 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 
 Thanks to YOLOv4 and Detectron2 software, they are cloned as it is.
 
-Their installations are adopted to our PC configurations in proper way and then it was magic. 
+Their installations are adopted to our PC configurations in proper way and then it was a magic. 
 
 ### Results
 1. Please refer to our Time of Occlusion computation (case1 and case2) in Chapter-3 of Msc **[Thesis](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking/blob/master/MSC%20Thesis/msc_thesis_vamshi.pdf)** Report 
