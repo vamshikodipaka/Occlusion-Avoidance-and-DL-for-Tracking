@@ -59,16 +59,16 @@ After a rigorous study of 10 Standard Robotic papers and over 20 papers on state
 3. Convert Darknet YOLO to Keras:
    python convert.py model_data/yolov3.cfg model_data/yolov3.weights model_data/yolo_weights.h5
 4. Test YOLO v3 with image_detect.py or realtime_detect.py (modify used model and classes according to your needs)
-   1. output of YOLOv3 CPU my PC found here: **[Click here-1](https://youtu.be/J-xz2tQTK1c)**
-   2. output of YOLOv3 CPU LAAS PC found here: **[Click here-2](https://youtu.be/ytDOpJ9F0mc)**
+   1. output of YOLOv3 CPU my PC found here: **[Click here-1](https://youtu.be/o_03c37iEzY?t=5)** (1m57s)
+   2. output of YOLOv3 CPU LAAS PC found here: **[Click here-2](https://youtu.be/o_03c37iEzY?t=123)** (1m06s)
 
 #### b. Run YOLOv4 and Detectron2 webcam based tracking (all tested on LAAS PC)
 1. for YOLOv4 webcam object tracking - follow the commands instructed in 'history linux20' file
-   1. output of YOLOv4 CPU found here: **[Click here-3](https://youtu.be/RpzwnDiODpA)**
-   2. output of YOLOv4 GPU found here: **[Click here-4](https://youtu.be/06AHNylwcoo)**
+   1. output of YOLOv4 CPU found here: **[Click here-3](https://youtu.be/o_03c37iEzY?t=189)** (1m24s)
+   2. output of YOLOv4 GPU found here: **[Click here-4](https://youtu.be/o_03c37iEzY?t=274)** (25s)
 2. for Detectron2 webcam object tracking - follow the commands instructed in 'history linux20' file
-   1. output of Detectron2 CPU found here: **[Click here-5](https://youtu.be/rZjaWulg4lQ)**
-   2. output of Detectron2 GPU found here: **[Click here-6](https://youtu.be/LFksvpn_jSs)**
+   1. output of Detectron2 CPU found here: **[Click here-5](https://youtu.be/o_03c37iEzY?t=300)** (47s)
+   2. output of Detectron2 GPU found here: **[Click here-6](https://youtu.be/o_03c37iEzY?t=347)** (58s)
 
 Thanks to YOLOv4 and Detectron2 software, they are cloned as it is.
 
